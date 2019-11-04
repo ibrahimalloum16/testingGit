@@ -2,3 +2,4 @@ hi,how
  bye
 salut
 bonjour
+aurevoir
